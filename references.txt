@@ -1,0 +1,2 @@
+AICrowd example notebooks: https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge/notebooks
+GitHub Example Repo: https://github.com/abdelrhmanelruby/Spotify-Recommendation-System
